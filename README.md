@@ -1,22 +1,21 @@
-# This is the real Github (Check name github HertzZxD)
+# This is the real Github (Check name github HertZxD)
 # Version
-* Version : <b>4.24</b> [5/5/2023]
+* Version : <b>4.25</b> [9/5/2023]
 * Compatible growtopia version : <b>4.19</b>
 * [Download Growtopia 4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe)
 
 # NOTE
 Use Growtopia 4.19 🇹🇰
 
+# Changelogs [14/5/2023]
+* Hopefully fixed ban accident :D
+* I recommend you to use alt acc for now
+
 # Changelogs [5/5/2023]
 * Updated to 4.24 Credit to Zumor : [Discord Server](https://discord.gg/VaY5D2M4Ut)
 
-# Changelogs [29/4/2023]
-* Added OnTouch Callback
-* Improved Auto bfg
-* Fixed can't login due to rtvar parsing
-
 # Download
-* [Download](https://direct-link.net/549925/growpai-inzector-424)
+* [Download](https://link-center.net/549925/growpai-fix-ban)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
